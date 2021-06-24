@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "skim",
+    "scheme": "skim",
     "slug": "skim",
     "version": "1.0.0",
     "orientation": "portrait",
